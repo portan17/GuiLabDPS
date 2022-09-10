@@ -1,0 +1,14 @@
+com/cars/MainApplication.java
+ com.cars.MainApplication
+ com.cars.MainApplication$1
+com/cars/BuildConfig.java
+ com.cars.BuildConfig
+com/cars/MainActivity.java
+ com.cars.MainActivity
+com/cars/ReactNativeFlipper.java
+ com.cars.ReactNativeFlipper
+ com.cars.ReactNativeFlipper$1
+ com.cars.ReactNativeFlipper$2
+ com.cars.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
